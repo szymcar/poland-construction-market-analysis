@@ -23,3 +23,5 @@ This project demonstrates advanced data transformation techniques:
 ## 🚀 Future Roadmap
 - [ ] Integration with Python for automated data fetching via GUS API.
 - [ ] Predictive analysis of future construction trends using regression models.
+
+### Current Status: WIP (Work In Progress). Data engineering phase completed; UI/UX and aesthetic polish in progress.
