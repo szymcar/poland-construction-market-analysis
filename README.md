@@ -25,3 +25,7 @@ This project demonstrates advanced data transformation techniques:
 - [ ] Predictive analysis of future construction trends using regression models.
 
 ### Current Status: WIP (Work In Progress). Data engineering phase completed; UI/UX and aesthetic polish in progress.
+
+### 🛠️ Key Technical Challenges Solved
+- **Geospatial Analysis:** Custom TopoJSON integration. Overcame the lack of native Polish county support in Power BI by generating a custom map file and mapping it via 4-digit TERYT codes.
+- **DAX Implementation:** Created explicit measures using the `DIVIDE` function to ensure calculation safety and handle potential null values in government datasets.
