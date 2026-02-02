@@ -1,3 +1,5 @@
+![Widok Dashboardu](dashboard_view.jpg)
+
 # Strategic Analysis of Construction Trends in Poland (Non-residential)
 
 ## 📊 Business Case
